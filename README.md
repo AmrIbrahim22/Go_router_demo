@@ -1,2 +1,3 @@
-# Go_router_demo
-flutter  app demo for simplified  Navigator 2 routing 
+# go_router_demo
+
+A new Flutter project.
