@@ -1,7 +1,4 @@
 # go_router_demo
-Using Flutter and 
-#Dart
-#go_router package
-Navigator2
+flutter simple demo for #go_router package
+(Navigator2) using Flutter framework and Dart programming language 
 
-A new Flutter project.
